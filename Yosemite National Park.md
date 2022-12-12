@@ -1,7 +1,8 @@
 # Yosemite National Park 
 
-## Awed by granite peaks and cascading waterfalls in Yosemite National Park
 -----------------------
+
+## Awed by granite peaks and cascading waterfalls in Yosemite National Park
 &nbsp;
 
 <p align=justify> The jewel in the crown of California’s national parks, Yosemite National Park has been stunning visitors since the first two travelers laid eyes on it in 1855. Now, every year over 4 million people stand in awe of its unique natural treasures, which have been documented by everyone from early conservationist John Muir to legendary photographer Ansel Adams. Carved into the center of the Sierra Nevada Mountains by ancient geological forces, Yosemite’s splendor and biodiversity are so grand that it was even designated a UNESCO World Heritage site in 1984. </p>
