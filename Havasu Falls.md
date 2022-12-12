@@ -10,30 +10,22 @@ To visit Havasu Falls "the right way" requires planning and plenty of physical p
  
 ## But first, the basics 
  
-<p> Les majoritaires sont: </p>
-
- L'anglais | Le français
- --------- | ----------
- 58%       |    22%
+<p align=justify> The official season runs from February - November. The earlier months mean colder waters but possibly fewer crowds. During the summer, from June to August, the trail is subject to close due to flooding and extreme heat (above 115°F / 46°C). </p> 
  
-<p align=justify> Le Canada tient la place d'un pays multilingue dans la mesure où l'espagnol, l'allemand, le chinois, l'arabe, le hollandais et bien d'autres langues sont très employées. </p>
+<p align=justify> Havasu Falls sits on the Havasupai Indian Reservation—which is not part of Grand Canyon National Park—so you'll need to buy a permit from the Havasupai Tribe to access the area. That is if you're among the lucky few able to score a reservation when the season's dates go live on February 1 at 8 a.m. (MST). </p>
  
- ![La multiculturalité](https://i.pinimg.com/564x/84/27/71/842771c5894b1bfd08f541f247407d0f.jpg)
+ ![The place](http://res.cloudinary.com/simpleview/image/upload/v1601421724/clients/utahddm/_44e98418-1aa4-4c03-b426-86e4492f024f.34db028036.jpg)
  
  &nbsp;
+
+
+## Where to stay
+ 
+ 
+ <p align=justify> The campground is an area spanning a mile on both sides of Havasu Creek between Havasu Falls and nearby Mooney Falls. There are no assigned sites; meaning, once you arrive, you're welcome to set up camp wherever you like within the designated area. </p> 
  
 
-## La place de la religion
- 
- 
- <p align=justify> Comme dans chaque pays du monde, le peuple est souvent guidé par la religion. Voici quelques données concernant le nombre de pratiquants du christianisme. </p>
- 
- Le catholicisme | Le protestantisme | L'église orthodoxe 
- --------------  |   -------------   | ------------
- 12 728 900      | 7 910 000         | 550 690
- 
-
-<p align=justify>Bien que cette religion soit très répandu dans notre pays aux fleurs d'érables, il ne faut pas oublié la pratique de l'islam (1 053 945), du judaïsme (329 500) et du bouddhisme (366 830) pour n'énumérer que les plus connues... </p>
+<p align=justify>To make a campground reservation, visit Havasupai Reservations website before February and create an account. (You cannot obtain permits or make reservations for the campground via phone.) You'll thank us later when the site goes live and you're not messing with logins, especially since reservations can sell out within minutes. Having an account lets you check the cancellation/transfer page for dates that reopen later in the year. </p>
 
 
 * [For a getaway to Yosemite](./Yosemite National Park.md)
