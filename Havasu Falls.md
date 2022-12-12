@@ -29,4 +29,4 @@ To visit Havasu Falls "the right way" requires planning and plenty of physical p
 
 
 * [For a getaway to Yosemite](./Yosemite National Park.md)
-* [A taste of the USA](./The USA.md)
+* [A taste of the USA](.Localization/The USA.md)
