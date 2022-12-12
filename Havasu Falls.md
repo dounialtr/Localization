@@ -35,5 +35,5 @@
 <p align=justify>Bien que cette religion soit très répandu dans notre pays aux fleurs d'érables, il ne faut pas oublié la pratique de l'islam (1 053 945), du judaïsme (329 500) et du bouddhisme (366 830) pour n'énumérer que les plus connues... </p>
 
 
-* [Petit zoom sur le Québec](./Quebec.md)
-* [Le Canada au fil du temps](./index.md)
+* [For a getaway to Yosemite](./Yosemite National Park.md)
+* [A taste of the USA](./The USA.md)
