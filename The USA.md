@@ -1,7 +1,4 @@
 # The United States
-&nbsp; 
-
-## 
 
 &nbsp;
 <p> You can soak up the mesmerizing vistas in Crater Lake, Yellowstone and Yosemite national parks, stand in awe at the Grand Canyon, hike the Black Hills, cruise the Great Lakes, paddle in the Mississippi, surf the gnarly breaks of Oahu and get lost in the vast wilderness of Alaska. Or you could easily plan a trip that focuses on the out-of-the-way hamlets, remote prairies, eerie ghost towns and forgotten byways that are every bit as “American” as its showpiece icons and monuments. 
