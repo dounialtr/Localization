@@ -1,49 +1,41 @@
-# Petit zoom sur le Québec 
+# Awed by granite peaks and cascading waterfalls in Yosemite National Park
 -----------------------
 &nbsp;
 
-<p align=justify> Le Québec est une province dont la capitale est la ville de Québec et sa métropole est Montréal. Il est situé entre l'Ontario et les provinces de l'Atlantique. La langue officielle est le français. C'est la deuxième province la plus péuplée après l'Ontario en comptant 8 400 000 habitants. </p>
+<p align=justify> The jewel in the crown of California’s national parks, Yosemite National Park has been stunning visitors since the first two travelers laid eyes on it in 1855. Now, every year over 4 million people stand in awe of its unique natural treasures, which have been documented by everyone from early conservationist John Muir to legendary photographer Ansel Adams. Carved into the center of the Sierra Nevada Mountains by ancient geological forces, Yosemite’s splendor and biodiversity are so grand that it was even designated a UNESCO World Heritage site in 1984. </p>
 
 &nbsp;
   
-![ville de Montréal](https://www.jechoisismontreal.com/app/uploads/2019/04/mi-rivesud-64_524x348_acf_cropped-524x317.jpg)
+![The park](https://img0.oastatic.com/img2/73855996/1080x610r/view-of-yosemite-falls-on-a-hike-in-yosemite.jpg)
 
 &nbsp;
 
-## L'histoire du Québec 
+## Breathtaking Nature in Yosemite National Park 
 
-<p align=justify> L'arrivées des premiers humains sur les terres québécoises commença il y a plus de 10 000 ans. De ce premier peuplement de l'Amérique se regroupent 3 grandes familles linguistiques: les Iroquoiens, les algonquiens et les Inuits-aléoutes. Diverses excursions ont eu lieu au fil des siècles. Jacques Cartier fut le premier explorateur européen à mettre les pieds sur le territoire constituant le Québec lors de son débarquement dans la région de Gaspé en 1534. Après diverses guerres et passages à différents régimes militaires, le Québec est enfin reconnu sous le nom de Province of Québec en 1763. 
-Il aussi important de noter que les femmes avaient le même droit de vote que les hommes à cette époque. La province voit son gouvernement apparaîtreà partir de 1867. À ce jour, 5 partis politiques sont représentés à l'assemblée nationale: la Coalition avenir Québec, le Parti libéral du Québec, le Parti québécois, Québec solidaire et le Parti conservateur du Québec. </p> 
-
+<p align=justify> Established in 1864, Yosemite National Park in California wows with more than 3,000 square kilometers of thundering waterfalls, deep valleys, towering giant sequoias and incredible granite peaks. </p> 
 
 &nbsp;
 
-## La faune et la flore 
-
-<p align=justify> Le Québec connaît également les 4 saisons de l'année avec des températures variant entre -40° pendant l'hiver québécois et 35° en été. 
-La faune terrestre est principalement composé de cerfs, de cariboux, d'ours noirs et d'ours polaires. On peut aussi trouver des renards, des lynx, des marmottes, des castors et bien d'autres animaux. Il est aussi très commun de croiser des petits êtres tels que les écureuils dans les parcs montréalais. </p> 
+The park — located about 260 kilometers east of San Francisco — is full of iconic landmarks. Marvel at the daring slopes of Half Dome, Yosemite’s nearly 2,700-meter trademark peak, and El Capitan, the largest single granite rock on Earth. Both sites lure rock climbers in droves (you’ll need to submit your name to a lottery if you’re hoping to climb Half Dome). If rock climbing isn’t on your to-do list, venture deeper into the park and visit the magnificent Yosemite Falls, the highest on the continent at nearly 740 meters. Or enjoy a relaxing stroll through Mariposa Grove, shaded by sequoia trees so tall that you can’t see the tops.
 
 &nbsp;
 
-## Le tourisme
-<p align=justify> Le tourisme est un véritable pilier de l'économie québécoise. Annuellement, les touristes dépensent plus de 6,7 milliards de dollars dans les différentes sphères de l’industrie touristique québécoise. Le développement des 22 régions touristiques est assuré par un réseau autonome d'associations touristiques régionales. Une panoplie de sites et plaisirs saisonniers font la satisfaction des touristes, sur l'eau, dans les montagnes ou dans les airs. Enfin, le Québec accueille de nombreux événements d’envergure internationale, dont des compétitions sportives (Grand Prix automobile du Canada, Coupe Rogers) et des festivals (Festival international de jazz de Montréal, Festival d’été international de Québec) ainsi que le plus important carnaval d'hiver au monde, le Carnaval de Québec. </p>
+## Climbing El Capitan in Yosemite National Park
+<p align=justify> The pair had expected to climb in near obscurity. "We weren't even thinking about who was going to care. That was the last thing on our mind," says Jorgeson. But the ascent, which took 19 days, gained a following on social media. Jorgeson's Instagram following exploded, and news outlets from The New York Times to NBC took notice. "I think the fact that it played out over the course of two weeks was probably a pretty important thing," he says. "One headline for one accomplishment is pretty easy to forget, but when you get to follow a journey through two weeks in an iconic area like Yosemite at a time when the world is full of bad news, I think it just hit all of these notes that people needed." </p>
 
 &nbsp;
 
-## La gastronomie 
-Une cuisine familiale, basée sur la tradition française, s’est développée au fil des siècles, intégrant poisson, gibier, légumes et fruits frais. Nous trouvons des plats tels que: 
-* La poutine 
-* Le cipaille
-* La guédille 
-* Le magret de canard 
-* La soupe aux pois.
-
-Sans oublier les incontournables cabanes à sucre, la production de sirop d'érables et le vin/cidre de glace. 
+## Activities 
+It is possible to do several activities in this beautiful place: 
+* Climbing
+* Hiking
+* Take pictures 
+* Observe nature...
 
 &nbsp;
 
-![La poutine](https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Ffac.2F2018.2F07.2F30.2Faa1d040e-4888-4394-9de1-7c90a27a46a1.2Ejpeg/850x478/quality/90/crop-from/center/poutine-canadienne.jpeg)
+![Hiking](https://national-park.com/wp-content/uploads/2017/03/Yosemite-National-Park-Hiking-Guide.jpg)
 
 
-* [Le Canada au fil du temps](./index.md)
-* [Venez découvrir le Canada sous ses aspects culturels!](./Culture.md) 
+* [A taste of the USA](./The USA.md)
+* [A change of scenery](./Havasu Falls.md) 
