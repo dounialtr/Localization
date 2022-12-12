@@ -1,13 +1,14 @@
-# Le Canada sous ses aspects culturels
+# Havasu Falls in Arizona
 
- <p align=justify> La culture du Canada désigne les pratiques culturelles de ses habitants dont la musique, les langues, l'art, la littérature, la gastronomie, l'humour et la politique. </p> 
- 
-<p align=justify> À travers les décennies, la culture canadienne s'est vu être influencée par certains pays européens tels que la France ainsi que le Royaume-Uni mais aussi par les premières nations, les peuples indigènes et les États-Unis. </p>
+## A GUIDE TO VISITING HAVASU FALLS THE 'RIGHT WAY'
+&nbsp;
+
+ <p align=justify> The magic of Havasu Falls may be hard to define—is it the turquoise pools or its remote location?—but it's undeniable that people come from all over to witness their beauty. Getting there, though, is not as easy as booking a ticket.
+To visit Havasu Falls "the right way" requires planning and plenty of physical preparation. Here's our guide to make your trip to the falls a memorable one. </p> 
  
  &nbsp;
  
-## Langues parlées
- 
+## But first, the basics 
  
 <p> Les majoritaires sont: </p>
 
