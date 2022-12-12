@@ -25,6 +25,6 @@ The sheer size of the country prevents any sort of overarching statement about t
 
 <p align=justify> Although Virginia is technically part of the South, for the purest experience you’ll need to venture even further to get the feel of its charismatic churches, BBQ dinners, country music and lively cities such as Atlanta and Memphis. The “deepest” part of the South lies in Georgia, Alabama and Mississippi, and in these states – with their huge plantations and long history of slavery – you’ll get a very different view of American life than anywhere else in the country. </p> 
 
-* [Venez découvrir le Canada sous ses aspects culturels!](./Havasu Falls.md)
-* [Petit zoom sur le Québec](./Yosemite National Park.md)
+* [A change of scenery](./Havasu Falls.md)
+* [For a getaway to Yosemite](./Yosemite National Park.md)
  
