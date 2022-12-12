@@ -1,7 +1,5 @@
 # Yosemite National Park 
 &nbsp;
------------------------
-&nbsp;
 ## Awed by granite peaks and cascading waterfalls in Yosemite National Park
 &nbsp;
 
