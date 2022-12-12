@@ -1,6 +1,6 @@
-## Yosemite National Park 
+# Yosemite National Park 
 
-# Awed by granite peaks and cascading waterfalls in Yosemite National Park
+## Awed by granite peaks and cascading waterfalls in Yosemite National Park
 -----------------------
 &nbsp;
 
