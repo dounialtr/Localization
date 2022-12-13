@@ -1,32 +1,32 @@
-# Havasu Falls in Arizona
+# Les chutes de Havasu en Arizona
 
-## A GUIDE TO VISITING HAVASU FALLS THE 'RIGHT WAY'
+## UN GUIDE POUR VISITER HAVASU FALLS DE LA " BONNE FAÇON " 
 &nbsp;
 
- <p align=justify> The magic of Havasu Falls may be hard to define—is it the turquoise pools or its remote location?—but it's undeniable that people come from all over to witness their beauty. Getting there, though, is not as easy as booking a ticket.
-To visit Havasu Falls "the right way" requires planning and plenty of physical preparation. Here's our guide to make your trip to the falls a memorable one. </p> 
+ <p align=justify> La magie des chutes d'Havasu est peut-être difficile à définir - s'agit-il des bassins turquoise ou de son emplacement isolé ? mais il est indéniable que les gens viennent de partout pour être témoins de leur beauté. S'y rendre, cependant, n'est pas aussi facile que de réserver un billet.
+Visiter Havasu Falls "comme il se doit" nécessite une planification et une bonne préparation physique. Voici notre guide pour faire de votre voyage aux chutes un moment mémorable. </p> 
  
  &nbsp;
  
-## But first, the basics 
+## Mais d'abord, les bases 
  
-<p align=justify> The official season runs from February - November. The earlier months mean colder waters but possibly fewer crowds. During the summer, from June to August, the trail is subject to close due to flooding and extreme heat (above 115°F / 46°C). </p> 
+<p align=justify> La saison officielle s'étend de février à novembre. Les mois les plus précoces sont synonymes d'eaux plus froides, mais peut-être aussi de moins de monde. Pendant l'été, de juin à août, la piste peut être fermée en raison d'inondations et de chaleurs extrêmes (plus de 115°F / 46°C). </p> 
  
-<p align=justify> Havasu Falls sits on the Havasupai Indian Reservation—which is not part of Grand Canyon National Park—so you'll need to buy a permit from the Havasupai Tribe to access the area. That is if you're among the lucky few able to score a reservation when the season's dates go live on February 1 at 8 a.m. (MST). </p>
+<p align=justify> Havasu Falls se trouve sur la réserve indienne Havasupai - qui ne fait pas partie du parc national du Grand Canyon - et vous devrez donc acheter un permis auprès de la tribu Havasupai pour accéder à la zone. Il vous faudra donc acheter un permis auprès de la tribu des Havasupai pour accéder à la zone, à condition que vous fassiez partie des rares chanceux à pouvoir obtenir une réservation lorsque les dates de la saison seront disponibles le 1er février à 8 heures (MST). </p>
  
- ![The place](http://res.cloudinary.com/simpleview/image/upload/v1601421724/clients/utahddm/_44e98418-1aa4-4c03-b426-86e4492f024f.34db028036.jpg)
+ ![Le site](http://res.cloudinary.com/simpleview/image/upload/v1601421724/clients/utahddm/_44e98418-1aa4-4c03-b426-86e4492f024f.34db028036.jpg)
  
  &nbsp;
 
 
-## Where to stay
+## Où séjourner
  
  
- <p align=justify> The campground is an area spanning a mile on both sides of Havasu Creek between Havasu Falls and nearby Mooney Falls. There are no assigned sites; meaning, once you arrive, you're welcome to set up camp wherever you like within the designated area. </p> 
+ <p align=justify> Le camping s'étend sur un kilomètre de part et d'autre de Havasu Creek, entre Havasu Falls et Mooney Falls. Il n'y a pas d'emplacements assignés, ce qui signifie qu'une fois arrivé, vous pouvez installer votre campement où vous voulez dans la zone désignée. </p> 
  
 
-<p align=justify>To make a campground reservation, visit Havasupai Reservations website before February and create an account. (You cannot obtain permits or make reservations for the campground via phone.) You'll thank us later when the site goes live and you're not messing with logins, especially since reservations can sell out within minutes. Having an account lets you check the cancellation/transfer page for dates that reopen later in the year. </p>
+<p align=justify> Pour réserver un terrain de camping, visitez le site Web de Havasupai Reservations avant février et créez un compte. (Vous ne pouvez pas obtenir de permis ou faire des réservations pour le camping par téléphone). Vous nous remercierez plus tard lorsque le site sera en ligne et que vous n'aurez plus à vous embêter avec les identifiants, d'autant plus que les réservations peuvent se vendre en quelques minutes. Le fait d'avoir un compte vous permet de consulter la page d'annulation/transfert pour les dates de réouverture plus tard dans l'année. </p>
 
 
 * [For a getaway to Yosemite](./Yosemite National Park.md)
-* [A taste of the USA](.Localization/The USA.md)
+* [Un avant-goût des États-Unis](./The USA page in FR.md)
