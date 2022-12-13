@@ -1,4 +1,4 @@
-# The United States
+# Les États-Unis
 
 &nbsp;
 <p> Vous pouvez vous imprégner des panoramas envoûtants des parcs nationaux de Crater Lake, Yellowstone et Yosemite, admirer le Grand Canyon, faire de la randonnée dans les Black Hills, faire une croisière sur les Grands Lacs, pagayer sur le Mississippi, surfer sur les vagues d'Oahu et vous perdre dans les vastes étendues sauvages de l'Alaska. Vous pouvez également organiser un voyage axé sur les hameaux isolés, les prairies reculées, les villes fantômes et les routes oubliées qui sont tout aussi "américaines" que les icônes et les monuments.  
