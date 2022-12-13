@@ -28,5 +28,5 @@ Visiter Havasu Falls "comme il se doit" nécessite une planification et une bonn
 <p align=justify> Pour réserver un terrain de camping, visitez le site Web de Havasupai Reservations avant février et créez un compte. (Vous ne pouvez pas obtenir de permis ou faire des réservations pour le camping par téléphone). Vous nous remercierez plus tard lorsque le site sera en ligne et que vous n'aurez plus à vous embêter avec les identifiants, d'autant plus que les réservations peuvent se vendre en quelques minutes. Le fait d'avoir un compte vous permet de consulter la page d'annulation/transfert pour les dates de réouverture plus tard dans l'année. </p>
 
 
-* [Pour une escapade au Yosemite](./Yosemite National Park.md)
+* [Pour une escapade au Yosemite](./Yosemite National Park in FR.md)
 * [Un avant-goût des États-Unis](./The USA page in FR.md)
