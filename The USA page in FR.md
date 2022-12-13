@@ -26,5 +26,5 @@ La taille même du pays empêche toute déclaration générale sur l'expérience
 <p align=justify> Bien que la Virginie fasse techniquement partie du Sud, pour vivre l'expérience la plus pure, vous devrez vous aventurer encore plus loin pour découvrir ses églises charismatiques, ses dîners au barbecue, sa musique country et ses villes animées comme Atlanta et Memphis. La partie la plus "profonde" du Sud se trouve en Géorgie, en Alabama et au Mississippi, et dans ces États - avec leurs immenses plantations et leur longue histoire d'esclavage - vous aurez une vision très différente de la vie américaine que partout ailleurs dans le pays. </p> 
 
 * [Un changement de décor](./Havasu Falls in FR.md)
-* [Pour une escapade au Yosemite](./Yosemite National Park.md)
+* [Pour une escapade au Yosemite](./Yosemite National Park in FR.md)
  
