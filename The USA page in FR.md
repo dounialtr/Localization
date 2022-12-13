@@ -1,7 +1,7 @@
 # The United States
 
 &nbsp;
-<p> You can soak up the mesmerizing vistas in Crater Lake, Yellowstone and Yosemite national parks, stand in awe at the Grand Canyon, hike the Black Hills, cruise the Great Lakes, paddle in the Mississippi, surf the gnarly breaks of Oahu and get lost in the vast wilderness of Alaska. Or you could easily plan a trip that focuses on the out-of-the-way hamlets, remote prairies, eerie ghost towns and forgotten byways that are every bit as “American” as its showpiece icons and monuments. 
+<p> Vous pouvez vous imprégner des panoramas envoûtants des parcs nationaux de Crater Lake, Yellowstone et Yosemite, admirer le Grand Canyon, faire de la randonnée dans les Black Hills, faire une croisière sur les Grands Lacs, pagayer sur le Mississippi, surfer sur les vagues d'Oahu et vous perdre dans les vastes étendues sauvages de l'Alaska. Vous pouvez également organiser un voyage axé sur les hameaux isolés, les prairies reculées, les villes fantômes et les routes oubliées qui sont tout aussi "américaines" que les icônes et les monuments.  
 The sheer size of the country prevents any sort of overarching statement about the typical American experience, just as the diversity of its people undercuts any notion of the typical American. Icons as diverse as Mohammed Ali, Louis Armstrong, Sitting Bull, Hillary Clinton, Michael Jordan, Madonna, Martin Luther King, Abraham Lincoln, Elvis Presley, Mark Twain, John Wayne and Walt Disney continue to inspire and entertain the world, and everyone has heard of the blues, country and western, jazz, rock ’n’ roll and hip-hop – all American musical innovations. </p>
 
 &nbsp;
