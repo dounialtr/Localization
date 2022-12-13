@@ -2,29 +2,29 @@
 
 &nbsp;
 <p> Vous pouvez vous imprégner des panoramas envoûtants des parcs nationaux de Crater Lake, Yellowstone et Yosemite, admirer le Grand Canyon, faire de la randonnée dans les Black Hills, faire une croisière sur les Grands Lacs, pagayer sur le Mississippi, surfer sur les vagues d'Oahu et vous perdre dans les vastes étendues sauvages de l'Alaska. Vous pouvez également organiser un voyage axé sur les hameaux isolés, les prairies reculées, les villes fantômes et les routes oubliées qui sont tout aussi "américaines" que les icônes et les monuments.  
-The sheer size of the country prevents any sort of overarching statement about the typical American experience, just as the diversity of its people undercuts any notion of the typical American. Icons as diverse as Mohammed Ali, Louis Armstrong, Sitting Bull, Hillary Clinton, Michael Jordan, Madonna, Martin Luther King, Abraham Lincoln, Elvis Presley, Mark Twain, John Wayne and Walt Disney continue to inspire and entertain the world, and everyone has heard of the blues, country and western, jazz, rock ’n’ roll and hip-hop – all American musical innovations. </p>
+La taille même du pays empêche toute déclaration générale sur l'expérience américaine typique, tout comme la diversité de ses habitants empêche toute notion d'Américain typique. Des icônes aussi diverses que Mohammed Ali, Louis Armstrong, Sitting Bull, Hillary Clinton, Michael Jordan, Madonna, Martin Luther King, Abraham Lincoln, Elvis Presley, Mark Twain, John Wayne et Walt Disney continuent d'inspirer et de divertir le monde, et tout le monde a entendu parler du blues, du country and western, du jazz, du rock 'n' roll et du hip-hop - autant d'innovations musicales américaines. </p>
 
 &nbsp;
 
 -----------------------
 
-## Where to go in the USA
+## Où aller aux États-Unis ?
 
-<p align=justify> The most invigorating American expeditions are often those that take in more than one region. You do not, however, have to cross the entire continent from shore to shore in order to appreciate its amazing diversity; it would take a long time to see the whole country, and the more time you spend simply travelling, the less time you’ll have to savour the small-town pleasures and backroad oddities that may well provide your strongest memories. Unless you’re travelling to and within a centralized location such as New York City, you’ll need a car – that mandatory component of life in the USA. </p> 
+<p align=justify> Les expéditions américaines les plus vivifiantes sont souvent celles qui englobent plus d'une région. Il ne faut cependant pas traverser tout le continent d'une rive à l'autre pour en apprécier l'étonnante diversité ; il faudrait beaucoup de temps pour voir tout le pays, et plus vous passerez de temps à voyager, moins vous aurez de temps pour savourer les plaisirs des petites villes et les bizarreries des chemins de traverse qui pourraient bien constituer vos meilleurs souvenirs. À moins que vous ne vous rendiez dans une ville centrale comme New York, vous aurez besoin d'une voiture - cet élément obligatoire de la vie aux États-Unis. </p> 
 
-<p align=justify> The obvious place to start for most people is New York City – international colossus of culture and finance, with a colourful history and numerous skyscrapers to prove its status as the essential American city. </p> 
+<p align=justify> Le point de départ évident pour la plupart des gens est la ville de New York - colosse international de la culture et de la finance, avec une histoire haute en couleur et de nombreux gratte-ciel pour prouver son statut de ville américaine incontournable. </p> 
 
 ![New York](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/1200px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg)
 
-<p align=justify> Seven hundred miles west lie the Great Lakes, on the whole the country’s most underappreciated region; vigorous cities including Chicago and Minneapolis, isolated and evocative lakeshores in Michigan and Minnesota, and rousing college towns such as Madison, Wisconsin, reward any visitor with more than a few days to explore. Bordering Ohio to the east, the nearby Capital Region is the home of Washington DC, capital of the nation and centrepiece for its grandest museums and monuments.  </p> 
+<p align=justify> À 300 km à l'ouest se trouvent les Grands Lacs, dans l'ensemble la région la plus méconnue du pays ; des villes dynamiques comme Chicago et Minneapolis, des rives de lacs isolées et évocatrices dans le Michigan et le Minnesota, et des villes universitaires dynamiques comme Madison, dans le Wisconsin, récompensent tout visiteur ayant plus de quelques jours à explorer. Bordant l'Ohio à l'est, la région de la capitale toute proche abrite Washington DC, capitale de la nation et centre de ses plus grands musées et monuments. </p> 
 
 
 -----------------------
 
-## The States
+## Les États
 
-<p align=justify> Although Virginia is technically part of the South, for the purest experience you’ll need to venture even further to get the feel of its charismatic churches, BBQ dinners, country music and lively cities such as Atlanta and Memphis. The “deepest” part of the South lies in Georgia, Alabama and Mississippi, and in these states – with their huge plantations and long history of slavery – you’ll get a very different view of American life than anywhere else in the country. </p> 
+<p align=justify> Bien que la Virginie fasse techniquement partie du Sud, pour vivre l'expérience la plus pure, vous devrez vous aventurer encore plus loin pour découvrir ses églises charismatiques, ses dîners au barbecue, sa musique country et ses villes animées comme Atlanta et Memphis. La partie la plus "profonde" du Sud se trouve en Géorgie, en Alabama et au Mississippi, et dans ces États - avec leurs immenses plantations et leur longue histoire d'esclavage - vous aurez une vision très différente de la vie américaine que partout ailleurs dans le pays. </p> 
 
-* [A change of scenery](./Havasu Falls.md)
-* [For a getaway to Yosemite](./Yosemite National Park.md)
+* [Un changement de décor](./Havasu Falls.md)
+* [Pour une escapade au Yosemite](./Yosemite National Park.md)
  
